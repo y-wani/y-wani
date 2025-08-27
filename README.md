@@ -10,10 +10,6 @@
 🛠️ GitHub Activity Overview
 While much of my recent development work has been within private repositories for clients and internship projects, this chart reflects my public contributions and personal learning projects. I’m continuously building, contributing, and leveling up my skills through hands-on practice.
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=y-wani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
