@@ -10,10 +10,6 @@
 🛠️ GitHub Activity Overview
 While much of my recent development work has been within private repositories for clients and internship projects, this chart reflects my public contributions and personal learning projects. I’m continuously building, contributing, and leveling up my skills through hands-on practice.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=y-wani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=y-wani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=y-wani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=y-wani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
